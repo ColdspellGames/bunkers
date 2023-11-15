@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "bunkers:plated_bunkite",
+    "bunkers:plated_bunkite_stairs",
+    "bunkers:plated_bunkite_slab",
+    "bunkers:plated_bunkite_wall",
+    "bunkers:stylized_plated_bunkite",
+    "bunkers:fractured_plated_bunkite",
+    "bunkers:fractured_plated_bunkite_stairs",
+    "bunkers:fractured_plated_bunkite_slab",
+    "bunkers:fractured_plated_bunkite_wall",
+    "bunkers:bunkite_door",
+    "bunkers:bunkite_trapdoor",
+    "bunkers:bunkite_pressure_plate",
+    "bunkers:stylized_bunkite_door",
+    "bunkers:stylized_bunkite_pressure_plate"
+  ]
+}

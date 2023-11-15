@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "bunkers:bunkite_scraps"
+    },
+    "C": {
+      "item": "minecraft:cobbled_deepslate_stairs"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "###",
+    "CCC"
+  ],
+  "result": {
+    "count": 6,
+    "item": "bunkers:plated_bunkite_stairs_replica"
+  },
+  "show_notification": true
+}

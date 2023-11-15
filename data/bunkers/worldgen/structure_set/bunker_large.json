@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "bunkers:bunker_large",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 16546882,
+    "spacing": 42,
+    "separation": 20,
+    "type": "minecraft:random_spread"
+  }
+}

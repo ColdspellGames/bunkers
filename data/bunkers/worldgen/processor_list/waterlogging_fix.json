@@ -1,0 +1,116 @@
+{
+  "processors": [
+    {
+      "rules": [
+        {
+          "output_state": {
+            "Name": "bunkers:plated_bunkite_stairs"
+          },
+          "input_predicate": {
+            "block": "bunkers:plated_bunkite_stairs",
+            "probability": 1.0,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "bunkers:plated_bunkite_slab"
+          },
+          "input_predicate": {
+            "block": "bunkers:plated_bunkite_slab",
+            "probability": 1.0,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "bunkers:stylized_bunkite_ladder"
+          },
+          "input_predicate": {
+            "block": "bunkers:stylized_bunkite_ladder",
+            "probability": 1.0,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "bunkers:fractured_plated_bunkite_stairs"
+          },
+          "input_predicate": {
+            "block": "bunkers:fractured_plated_bunkite_stairs",
+            "probability": 1.0,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "bunkers:bunkite_trapdoor"
+          },
+          "input_predicate": {
+            "block": "bunkers:bunkite_trapdoor",
+            "probability": 1.0,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "bunkers:stylized_bunkite_trapdoor"
+          },
+          "input_predicate": {
+            "block": "bunkers:stylized_bunkite_trapdoor",
+            "probability": 1.0,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "bunkers:bunkite_door"
+          },
+          "input_predicate": {
+            "block": "bunkers:bunkite_door",
+            "probability": 1.0,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "bunkers:stylized_bunkite_door"
+          },
+          "input_predicate": {
+            "block": "bunkers:stylized_bunkite_door",
+            "probability": 1.0,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        }
+      ],
+      "processor_type": "minecraft:rule"
+    },
+    {
+      "processor_type": "bunkers:waterlogging_fix"
+    }
+  ]
+}

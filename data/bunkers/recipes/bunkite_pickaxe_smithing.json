@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "bunkers:bunkite_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "result": {
+    "item": "bunkers:bunkite_pickaxe"
+  },
+  "template": {
+    "item": "bunkers:bunkite_upgrade_smithing_template"
+  }
+}

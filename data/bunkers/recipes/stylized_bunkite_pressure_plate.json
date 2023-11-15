@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "bunkers:stylized_dust"
+    },
+    "T": {
+      "tag": "minecraft:pressure_plates"
+    }
+  },
+  "pattern": [
+    "TTT",
+    "###"
+  ],
+  "result": {
+    "count": 3,
+    "item": "bunkers:stylized_bunkite_pressure_plate"
+  },
+  "show_notification": true
+}

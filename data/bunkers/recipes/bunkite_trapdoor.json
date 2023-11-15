@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "bunkers:bunkite_scraps"
+    },
+    "T": {
+      "tag": "minecraft:trapdoors"
+    }
+  },
+  "pattern": [
+    "TTT",
+    "###"
+  ],
+  "result": {
+    "count": 3,
+    "item": "bunkers:bunkite_trapdoor"
+  },
+  "show_notification": true
+}

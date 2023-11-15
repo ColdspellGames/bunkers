@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "bunkers:stylized_dust"
+    },
+    "L": {
+      "item": "minecraft:ladder"
+    }
+  },
+  "pattern": [
+    "LLL",
+    "###",
+    "LLL"
+  ],
+  "result": {
+    "count": 6,
+    "item": "bunkers:stylized_bunkite_ladder"
+  },
+  "show_notification": true
+}

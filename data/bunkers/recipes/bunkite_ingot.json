@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bunkers:bunkite_scraps"
+    },
+    {
+      "item": "bunkers:bunkite_scraps"
+    },
+    {
+      "item": "bunkers:bunkite_scraps"
+    },
+    {
+      "item": "bunkers:bunkite_scraps"
+    },
+    {
+      "item": "bunkers:stylized_dust"
+    },
+    {
+      "item": "bunkers:stylized_dust"
+    },
+    {
+      "item": "bunkers:stylized_dust"
+    },
+    {
+      "item": "bunkers:stylized_dust"
+    }
+  ],
+  "result": {
+    "item": "bunkers:bunkite_ingot"
+  }
+}
